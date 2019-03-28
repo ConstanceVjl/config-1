@@ -95,6 +95,10 @@
         "template_id": "7a5b0b37-63ea-4cad-a180-ba092f7b96f0"
       , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
       },
+      "fr": { 
+        "template_id": ""
+      , "from": { "email": "contact@inmemori.com", "name": "{{context.senderName}}" }
+      },
       "de": { 
         "template_id": "8112db76-84fc-457c-bd32-0fcd24db74ab"
       , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
